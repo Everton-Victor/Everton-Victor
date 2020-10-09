@@ -22,5 +22,5 @@
 
 ### Find me elsewhere 🌎
 
-📸 [Instagram](www.instagram.com/everton_dev/) <br>
-💼 [LinkedIn](www.linkedin.com/in/éverton-victor) <br>
+📸 Instagram www.instagram.com/everton_dev/ <br>
+💼 LinkedIn www.linkedin.com/in/éverton-victor <br>
