@@ -2,7 +2,7 @@
 
 <hr>
 
-- 👊 I am studying Technical Systems Development at ETEC mauá (Centro Paula Souza)
+- 👊 I am studying Technical Systems Development at ETEC Mauá (Centro Paula Souza)
 
 - 🔭 I’m web developer
 
