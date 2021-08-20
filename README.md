@@ -5,7 +5,7 @@
 
 - 🔭 I’m web developer
 
-- 🌱 I'm learning HTML, CSS, JS, LibsJS and FrameworksJS
+- 🌱 I'm learning HTML5, CSS3, JS, LibsJS and FrameworksJS
 
 - 👯 I am looking to collaborate with web projects 
 
@@ -21,5 +21,5 @@
 
 ### Find me elsewhere 🌎
 
-📸 Instagram -> www.instagram.com/everton_dev<br>
+📸 Instagram -> www.instagram.com/evertonvss<br>
 💼 LinkedIn -> www.linkedin.com/in/éverton-victor <br>
