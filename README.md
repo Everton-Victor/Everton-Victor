@@ -21,5 +21,4 @@
 
 ### Find me elsewhere 🌎
 
-📸 Instagram -> www.instagram.com/evertonvss<br>
 💼 LinkedIn -> www.linkedin.com/in/éverton-victor <br>
