@@ -15,7 +15,10 @@
 
 <hr>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Everton-Victor&theme=black)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Everton-Victor&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Everton-Victor&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <hr>
 
