@@ -14,7 +14,7 @@
 
 <hr>
 
-<script src="https://tryhackme.com/badge/1331932"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/diablo.vss.png" alt="TryHackMe">
 
 <hr>
 
